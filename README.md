@@ -16,4 +16,4 @@ making it a simpler way to work. Having the availability of all relationships fr
 ![img_01](/src/relaciones_tablas_proyectos.png)
 
 ## Python
-The work was done using Python in the Jupyter Notebook environment. Using the Pandas library, various files were manipulated to obtain the final results. The code can be referenced in the 'archivo.py' file.
+The work was done using Python in the Jupyter Notebook environment. Using the Pandas library, various files were manipulated to obtain the final results. The code can be referenced in the [`proyectos_cyt.ipynb`](proyectos_cyt.ipynb)
